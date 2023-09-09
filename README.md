@@ -36,7 +36,7 @@ Python 3.x
 PyTorch
 Matplotlib
 
-##**Submission 2**
+## **Submission 2**
 
 # English to Hindi Translation with Hugging Face Transformers
 
