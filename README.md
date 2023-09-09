@@ -53,5 +53,5 @@ This project demonstrates how to perform English-to-Hindi translation using the 
 
 1. Install the necessary dependencies:
 
-   bash
+   bash,
    transformers
